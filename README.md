@@ -25,5 +25,5 @@ filename:
 I created this script to solve a specific problem, but I also think it would be kind of cool to develop into a more useful and general tool. This project will either continue to be develped into a CLI app and eventually a Tkinter or flask app or will die on the vine.
 
 ### Next Features
-1. Build out the regex to more the chain of .replace() functions and to minimize duplicate code.
+1. Build out the regex to replace the chain of .replace() functions and to minimize duplicate code.
 2. Insert the label to the image border. I would have already done it but I have to figure out the exact pixel coordinates of where I want the label to be placed.

@@ -1,7 +1,7 @@
 # QR-code-generator
-I can't figure out if QR code apps are trustworthy or not so I am making my own.
+I can't figure out if QR code apps are trustworthy or not so I am making my own (this one is trustworthy). 
 
-I use QR codes to pass strings to my phone from my desktop, I also want to start using QR codes for all kidns of things. This will help me make QR codes in an automated fashion and in a really quick one-off fashion.
+I use QR codes to pass strings to my phone from my desktop, I also want to start using QR codes for all kinds of things. This will help me make QR codes in an automated fashion and in a really quick one-off fashion.
 
 ## Parameters:
 **label:** Describe the puporse of the code, and set the file name. If a URL is used in the data field then type False.
@@ -21,7 +21,9 @@ filename:
 ![Image - QR code example](https://github.com/ramcandrews/QR-code-generator/blob/master/funny_joke.PNG)
 
 
-## Roadmap
-This project will either continue to be develped into a CLI app and eventually a Tkinter or flask app or will die on the vine.
+## Roadmap --> 0.???
+I created this script to solve a specific problem, but I also think it would be kind of cool to develop into a more useful and general tool. This project will either continue to be develped into a CLI app and eventually a Tkinter or flask app or will die on the vine.
 
-**Next feature:** Insert the label to the image border. I would have already done it but I have to figure out the exact pixel coordinates where it will be placed.
+### Next Features
+1. Build out the regex to more the chain of .replace() functions and to minimize duplicate code.
+2. Insert the label to the image border. I would have already done it but I have to figure out the exact pixel coordinates of where I want the label to be placed.

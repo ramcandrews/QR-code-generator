@@ -10,7 +10,7 @@ width: (default = 256) This is the width of a square image. The output will be h
 filetype: (default = "PNG") For somereason PNG outputs the smalles file size by a factor of 10. all images up to 512w end up being less than 1kb. I will be interested in learning how to output a vector image (SVG).
 
 ## Usage
-make_QR("Funny joke", "This is a funny jonk")
+`make_QR("Funny joke", "This is a funny jonk")`
 
 ## Output
 filename: 

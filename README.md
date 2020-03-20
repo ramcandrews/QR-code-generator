@@ -23,3 +23,5 @@ filename:
 
 ## Roadmap
 This project will either continue to be develped into a CLI app and eventually a Tkinter or flask app or will die on the vine.
+
+**Next feature:** Insert the label to the image border. I would have already done it but I have to figure out the exact pixel coordinates where it will be placed.

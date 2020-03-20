@@ -13,6 +13,6 @@ filetype: (default = "PNG") For somereason PNG outputs the smalles file size by 
 make_QR("Funny joke", "This is a funny jonk")
 
 ## Output
-filename
-`funny_joke.PNG@`
+filename: 
+`funny_joke.PNG`
 ![Image - QR code example](https://github.com/ramcandrews/QR-code-generator/blob/master/funny_joke.PNG)
